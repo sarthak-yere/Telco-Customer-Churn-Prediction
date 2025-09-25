@@ -16,7 +16,6 @@ By analyzing patterns in customer demographics, subscriptions, and billing, we i
 - **Features:** Monthly Charges, Total Charges, Tenure, Gender, Internet Service, Contract Type, Payment Method, etc.  
 - **Target:** `Churn` (1 = customer churned, 0 = retained)  
 
-![EDA Overview](images/eda_overview.png)  
 
 ---
 
